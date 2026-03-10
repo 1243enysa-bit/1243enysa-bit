@@ -45,6 +45,14 @@ Mathematics • Python • Mathematical Modeling • Research
 
 ---
 
+## 🔬 Research Interests
+
+I am interested in applying mathematics to biological and medical systems.
+
+- Dynamical systems
+- Tumor growth modeling
+- Epidemiological modeling
+
 ## 🌍 Connect With Me
 
 GitHub: https://github.com/1243enysa-bit
