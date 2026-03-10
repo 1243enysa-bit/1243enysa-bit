@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Elizabeth Nana Yaa Sakyiwaa Ayeh
 
-🎓 Mathematics Student  
+🎓Bsc Mathematics Student  
 
 I am passionate about applying mathematics to real-world problems.
 
